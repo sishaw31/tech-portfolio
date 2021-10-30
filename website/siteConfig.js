@@ -13,7 +13,7 @@ const users = [];
 
 const siteConfig = {
     title: 'Shenessa I. Shaw', // Title for your website.
-    tagline: 'Aspiring Computer Programmer and Developer.',
+    tagline: 'Computer Programmer and Developer.',
     profilePhoto: 'img/profile.png',
     url: 'https://shawsi31.github.io', // Your website URL
     baseUrl: '/tech-portfolio/', // Base URL for your project */
