@@ -13,7 +13,7 @@ const users = [];
 
 const siteConfig = {
     title: 'Shenessa I. Shaw', // Title for your website.
-    tagline: 'Computer Programmer and Developer.',
+    tagline: 'Computer Programming and Development Student',
     profilePhoto: 'img/profile.png',
     url: 'https://shawsi31.github.io', // Your website URL
     baseUrl: '/tech-portfolio/', // Base URL for your project */
@@ -23,7 +23,7 @@ const siteConfig = {
 
     // Used for publishing and more
     projectName: 'tech-portfolio',
-    organizationName: 'shenessashaw',
+    organizationName: 'ShenessaShaw',
     // For top-level user or org sites, the organization is still the same.
     // e.g., for the https://JoelMarcey.github.io site, it would be set like...
     //   organizationName: 'JoelMarcey'
