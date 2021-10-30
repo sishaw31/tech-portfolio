@@ -67,7 +67,7 @@ const siteConfig = {
     enableUpdateTime: true,
 
     socialMedia: {
-        linkedin: 'www.linkedin.com/in/shenessa-shaw',
+        linkedin: 'shenessa-shaw',
         github: 'shawsi31',
     },
 
