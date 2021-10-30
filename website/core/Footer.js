@@ -26,7 +26,7 @@ class Footer extends React.Component {
             <img alt="GitHub" src={this.props.config.baseUrl + "img/github.svg"}></img>
           </a>
         </section>
-        <section className="copyright">{this.props.config.copyright}. Created with Docusaurus.</section>
+        <section className="copyright">{this.props.config.copyright}.</section>
       </footer>
     );
   }
